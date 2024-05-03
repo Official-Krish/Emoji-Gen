@@ -1,11 +1,10 @@
 # Emoji Generator
 
-This is a simple Emoji Generation website built with TypeScript, Vite, and CSS. Users can generate random emojis and get information about them.
+This is a simple Emoji Generation website built with TypeScript, Vite, CSS and all the assets are from Fluent Emoji by Microsoft.
 
 ## Features
 
 - Generate random emojis
-- Display emoji details (name, category, etc.)
 - User-friendly interface
 - Fast build and reload times with Vite
 
@@ -16,7 +15,6 @@ This is a simple Emoji Generation website built with TypeScript, Vite, and CSS. 
 - [Development](#development)
 - [Building](#building)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
